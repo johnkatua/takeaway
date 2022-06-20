@@ -9,8 +9,8 @@ const Footer = () => {
         </span>
       </div>
       <div className='footer--wrapper__src'>
-        <a href='/'>Back top</a>
-        <a href='/'>Source Code.</a>
+        <a href='/' target="_top">Back top</a>
+        <a href='https://github.com/johnkatua/takeaway' target="_blank">Source Code.</a>
       </div>
     </div>
   )
