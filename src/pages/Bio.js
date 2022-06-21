@@ -22,7 +22,7 @@ const Bio = () => {
         </p>
         <p>
           I'll be graduating this coming December, with a degree in Business Information Technology
-          and looking forward to be fully employed.
+          and looking forward to be fully utilize my skills.
         </p>
       </div>
     </div>

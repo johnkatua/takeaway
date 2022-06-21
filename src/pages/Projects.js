@@ -23,12 +23,14 @@ const Projects = () => {
           <div className='project-A__details'>
             <h3>Tuk Repo</h3>
             <p>
-              This application aims to help people who have either lost or misplaced any item 
-              or incase you find something which does not belong to you just share the photo of the item and
-              a short description to see if the owner can locate it.
+              This application aims to help students at The Technical University of Kenya have easy access to
+              all the past papers done within the  institutions.  Major beneficiaries are 
+              those students taking their degree and diploma courses.
             </p>
-            <button>
-              View App
+             <button className='view--app__btn'>
+              <a href='https://leafy-licorice-c435d7.netlify.app' target="_blank">
+                View App
+              </a>
             </button>
           </div>
         </div>
@@ -39,12 +41,13 @@ const Projects = () => {
           <div className='project-A__details'>
             <h3>Lost & Found</h3>
             <p>
-              This application aims to help people who have either lost or misplaced any item 
-              or incase you find something which does not belong to you just share the photo of the item and
-              a short description to see if the owner can locate it.
+              This app helps people who have either lost or misplaced any item. You can also share a  
+              photo and a short description of the item in case you happen to find something which you do not own.
             </p>
             <button>
-              View App
+              <a href='https://hilarious-cobbler-e87906.netlify.app' target="_blank">
+                View App
+              </a>
             </button>
           </div>
         </div>

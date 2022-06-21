@@ -172,6 +172,14 @@
   bottom: 2%;
 }
 
+.project-A__details button {
+  background-color: none;
+  padding: .5rem 1rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+
 .project-B {
   position: relative;
   flex: 1;
@@ -452,7 +460,7 @@
     margin: 0;
     font-size: 1rem;
   }
-
+  
   .project-B {
     position: absolute;
     top: 35%;
@@ -524,7 +532,11 @@
   }
 
   .links__linkedin--btn button {
-    font-size: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .twitter--link {
+    color: violet;
   }
 
   .footer--wrapper {

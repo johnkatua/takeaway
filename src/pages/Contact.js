@@ -1,6 +1,7 @@
 import React from 'react';
 import { IconContext } from 'react-icons';
 import { BsLinkedin, BsTwitter, BsGithub } from "react-icons/bs";
+import "../components/index.css";
 
 const Contact = () => {
   return (
