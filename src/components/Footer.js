@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
       <div className='footer--wrapper__src'>
         <a href='/' target="_top">Back top</a>
-        <a href='https://github.com/johnkatua/takeaway' target="_blank">Source Code.</a>
+        <a href="https://github.com/johnkatua/takeaway" target="_blank" referrerPolicy="no-referrer">Source Code.</a>
       </div>
     </div>
   )

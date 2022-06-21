@@ -27,7 +27,7 @@ const Contact = () => {
           </div>
           <div className='links__linkedin--btn'>
             <button>
-              Go to Linkedin
+              <a href='https://www.linkedin.com/in/johnkatua/' target="_blank">Go to Linkedin</a>
             </button>
           </div>
         </div>
@@ -44,7 +44,7 @@ const Contact = () => {
           </div>
           <div className='links__linkedin--btn'>
             <button>
-              Go to Twitter
+              <a href='https://twitter.com/realKatua_' target="_blank">Go to Twitter</a>
             </button>
           </div>
         </div>
@@ -61,7 +61,7 @@ const Contact = () => {
           </div>
           <div className='links__linkedin--btn'>
             <button>
-              Go to Github
+              <a href='https://github.com/johnkatua' target="_blank">Go to Github</a>
             </button>
           </div>
         </div>
